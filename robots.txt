@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.cpxjk.cn/sitemap.xml
